@@ -24,3 +24,5 @@
 ![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=for-the-badge&logo=amazonaws&logoColor=white&color=2bbc8a)  
 
 ![Pike's GitHub stats](https://github-readme-stats.vercel.app/api?username=PikeNote&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PikeNote&show_icons=true&theme=radical)
