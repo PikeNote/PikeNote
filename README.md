@@ -5,7 +5,7 @@
 - 💻 Mainly a backend developer (Not very proficent at HTML and CSS)
 - 📚 Beginner developer who strives to venture more into other languages + frontend development
    - 📝 Want to start learning Rust, HTML/CSS, C++, and Java
-- 🔭 I’m currently working on [taskbar-group]([https://github.com/tjackenpacken/taskbar-groups](https://github.com/PikeNote/taskbar-groups-pike-beta)  
+- 🔭 I’m currently working on [taskbar-groups](https://github.com/PikeNote/taskbar-groups-pike-beta)
   
   
 ## 🔧 Technologies & Tools
